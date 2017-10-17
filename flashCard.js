@@ -11,7 +11,7 @@ var basicCard = require("./basicCard");
 		
 	    // choose type of card basic(front/back) or cloze(fill in the blank)
 
-	      // if basic 
+	    // if basic 
 
 
       	// if cloze

@@ -61,9 +61,6 @@ var basicDeck = function(){
     this.topic = topic;
     this.cards = [];
 
-        // enter front question or definition
-        // enter back answer
-
         // create new card
         this.addBasic = function(front, back) {
           this.cards.push(new basicCard(front, back));
